@@ -18,7 +18,7 @@ namespace Test
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            button1.Text = "jhehe";
+            button1.Text = "lala";
         }
     }
 }
